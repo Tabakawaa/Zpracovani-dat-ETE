@@ -1,4 +1,6 @@
 # Zpracovani-dat-ETE
+[![DOI](https://zenodo.org/badge/1297266612.svg)](https://doi.org/10.5281/zenodo.21770137)
+
 Doprovodné soubory k bakalářské práci 25 let monitorování životního prostředí v okolí ETE – využití GIS pro představení výsledků veřejnosti. 
 
 
