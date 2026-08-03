@@ -3,15 +3,15 @@ Doprovodné soubory k bakalářské práci 25 let monitorování životního pro
 
 
 ## Použité knihovny
-re (Regular expression) https://github.com/python/cpython/tree/3.14/Lib/re/
-Path
-numpy
-pandas
-scipy
-geopandas
-matplotlib
-yaml
-cdist
+re,
+Path,
+numpy,
+pandas,
+scipy,
+geopandas,
+matplotlib,
+yaml,
+cdist,
 LogNorm
 
 ## Soubory
